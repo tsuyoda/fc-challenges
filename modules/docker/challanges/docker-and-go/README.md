@@ -24,6 +24,9 @@ Compartilhe o link do repositório do Git remoto para corrigirmos seu projeto.
 Divirta-se!
 ```
 
+## Requisitos 📃
+- [Docker](https://docs.docker.com/engine/install/)
+
 ## Como executar 🚀
 
 Execute:
