@@ -1,0 +1,3 @@
+modules/docker/challanges/nginx-with-node/data
+modules/docker/challanges/nginx-with-node/node_modules
+modules/docker/challanges/nginx-with-node/package-lock.json
