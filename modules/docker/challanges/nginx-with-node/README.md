@@ -38,6 +38,6 @@ Execute:
 docker compose up -d
 ```
 
-A aplicação está disponível na porta 8080.
+A aplicação estará disponível na porta 8080.
 
 http://localhost:8080
